@@ -1,10 +1,6 @@
 # Análisis del mercado de salarios para Ciencia de Datos 2023
 ## Análisis de indicadores de empleo en el sector
 
-**Giamportone, Ariel Luján.**
-
-*UPGRADE HUB-Madrid,España. 2023*
-
 ## - Resumen
 El presente informe ofrece un **análisis exhaustivo** del mercado laboral y salarial en el sector de Tecnologías de la Información y la Comunicación (TIC) a partir de una serie de variables clave. Este análisis se centra en la evaluación detallada de diversas **métricas** que incluyen la relación entre los **salarios** y la **experiencia laboral**, la **evolución salarial** en un periodo de tres años, los **patrones de contratación** respecto a la modalidad presencial o remota, así como la influencia del **tamaño de la empresa** y la **distribución geográfica** en los salarios y **modalidades de trabajo**.
 El objetivo es comprender cómo estas profesiones se reflejan en los datos disponibles, explorando patrones, relaciones y posibles correlaciones que definan las tendencias laborales en el mercado actual. A través de este análisis, busco descubrir y destacar las tendencias que ofrece el mercado laboral en la **ciencia de datos y las TIC**.
@@ -27,7 +23,7 @@ El **avance tecnológico** ha superado la capacidad de adaptación organizativa.
 
 *Estos hallazgos apuntan a un **cambio dinámico** en la **adquisición y retención de talento**, resaltando la necesidad de abordar las nuevas **realidades laborales** para alcanzar el éxito en un mundo tecnológicamente evolucionado.*
 
-## - Agradecimientos
+
 
 A **Andrés Mateo Piñol** y **Demetrio Esteban Alférez** por su paciencia, aporte de datos y técnicas de análisis y el acompañamiento continuo en la formación.
 
